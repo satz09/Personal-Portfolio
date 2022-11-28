@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Personal-Portfolio/static/css/main.3aa2dce7.css",
+    "main.js": "/Personal-Portfolio/static/js/main.a3062374.js",
+    "static/media/crud.png": "/Personal-Portfolio/static/media/crud.712e03ca0aab6dea5a19.png",
+    "static/media/foodapp.jpg": "/Personal-Portfolio/static/media/foodapp.70538e83ea06d5c7212a.jpg",
+    "static/media/portfolio.jpg": "/Personal-Portfolio/static/media/portfolio.9a78ef1c0e5105b7c564.jpg",
+    "index.html": "/Personal-Portfolio/index.html",
+    "main.3aa2dce7.css.map": "/Personal-Portfolio/static/css/main.3aa2dce7.css.map",
+    "main.a3062374.js.map": "/Personal-Portfolio/static/js/main.a3062374.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3aa2dce7.css",
+    "static/js/main.a3062374.js"
+  ]
+}
